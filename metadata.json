@@ -1,10 +1,11 @@
 {
   "name": "HAKHAMEN",
   "symbol": "HKM",
-  "description": "توکن فرهنگی الهام‌گرفته از تمدن ایران باستان",
   "decimals": 6,
-  "image": "https://raw.githubusercontent.com/alibesai/hakhmen/main/logo.png",
+  "description": "HAKHAMEN is a cultural token inspired by ancient Persian heritage.",
+  "image": "https://i.postimg.cc/jDF7dLfx/hkm-logo.png",
   "social": {
-    "telegram": "https://t.me/hakhmen"
+    "telegram": "https://t.me/hakhmen",
+    "website": "درحال ساخت"
   }
 }
